@@ -1,0 +1,16 @@
+BOM:
+
+4x M3x18 or M3x20
+
+Tape on Neopixels:
+Tape on Neopixel strip, maximum length of 30mm
+double sided Tape
+
+2x Adafruit Flora RGBs or similar 12,5mm round LEDS 
+4x 1,5m or 2mm self taping screws, suggested length of 5mm to 8mm
+
+Assembly: 
+  remove screws securing 30mm fan
+  Mount Neopixels on printed part, eiter tape (both variants) or screws (Flora LEDs)
+  Mount assembly by using 18mm or 20mm screws
+  Run wiring to Toolhead PCB/Mainboard/RPI/CANBus board, mind pinout (in and out signal of LEDs!)
