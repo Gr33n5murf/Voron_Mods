@@ -18,3 +18,7 @@ Assembly:
   Mount Neopixels on printed part, eiter tape (both variants) or screws (Flora LEDs)
   Mount assembly by using 18mm or 20mm screws
   Run wiring to Toolhead PCB/Mainboard/RPI/CANBus board, mind pinout (in and out signal of LEDs!)
+
+Print setting:
+
+Low-stress part, whatever you want. I used 3 walls, 4 tops and bottoms, 25% infill.
