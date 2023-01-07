@@ -11,7 +11,7 @@ double sided Tape
 
 Variants:
 
-names should be self explainatory, blank one can be customised like filling out the hole, putting the serial there, etc. Font size of 4mm is intended, makes the letters thick enough for single-wall extrusion
+names should be self explainatory, blank one can be customised like filling out the hole, putting the serial there, etc. Font size of 4mm is intended, makes the letters thick enough for single-wall extrusion. Font height of 1mm required
 
 Assembly: 
   remove screws securing 30mm fan
@@ -22,3 +22,4 @@ Assembly:
 Print setting:
 
 Low-stress part, whatever you want. I used 3 walls, 4 tops and bottoms, 25% infill.
+Color change at 1mm possible.
